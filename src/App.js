@@ -5,6 +5,9 @@ import HeroSection from './components/HeroSection';
 import GallerySection from './components/GallerySection';
 import CounterSection from './components/CounterSection';
 import AboutUsSection from './components/AboutUsSection';
+import InTheNews from './components/InTheNews';
+import IntoTheGroup from './components/IntoTheGroup';
+import MediaHub from './components/MediaHub';
 import Persons from './components/Persons';
 import Footer from './components/Footer';
 
@@ -17,6 +20,9 @@ function App() {
       <GallerySection />
       <CounterSection />
       <AboutUsSection />
+      <InTheNews />
+      <IntoTheGroup />
+      <MediaHub />
       <Persons/>
       <Footer />
     </div>
