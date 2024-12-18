@@ -44,7 +44,7 @@ const Footer = () => {
         <div>
           <h2 className="text-lg font-semibold text-gray-800">Follow Us On Socials</h2>
           <div className="mt-4 flex justify-center md:justify-start space-x-4">
-            <a href="#" className="text-blue-600">
+            <a href="https://www.linkedin.com/company/intoworkaustralia/" className="text-blue-600">
               <svg
                 xmlns="http://www.w3.org/2000/svg"
                 fill="currentColor"
@@ -54,7 +54,7 @@ const Footer = () => {
                 <path d="M19.615 3H4.385A1.385 1.385 0 003 4.385v15.231A1.385 1.385 0 004.385 21h15.231A1.385 1.385 0 0021 19.615V4.385A1.385 1.385 0 0019.615 3zm-7.385 15.231h-3.692V9.615h3.692zm-1.846-8.308a2.154 2.154 0 110-4.308 2.154 2.154 0 010 4.308zm9.231 8.308h-3.692v-4.615c0-2.461-3.077-2.276-3.077 0v4.615h-3.692V9.615h3.692v1.385c1.539-2.833 6.154-2.308 6.154 1.615z" />
               </svg>
             </a>
-            <a href="#" className="text-blue-600">
+            <a href="https://www.facebook.com/intoworkaustralia/" className="text-blue-600">
               <svg
                 xmlns="http://www.w3.org/2000/svg"
                 fill="currentColor"
